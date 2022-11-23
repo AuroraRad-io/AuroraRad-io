@@ -9,6 +9,6 @@ Its ment for like random files we have open sourced aka our app 'shit should not
 
 # Useful Links
 
-1) (Website)[https://auroraradio.ml]
-2) (Discord)[https://discord.gg/3dBEyFjDtv]
-3) (Twitter)[https://twitter.com/RadioAuroraUK]
+1) [Website](https://auroraradio.ml)
+2) [Discord](https://discord.gg/3dBEyFjDtv)
+3) [Twitter](https://twitter.com/RadioAuroraUK)
